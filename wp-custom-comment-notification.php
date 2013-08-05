@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WP Custom Notification 
+Plugin Name: WP Custom Comment Notification 
 Plugin URI: http://dgrebb.com/
 Description: Customizes comment notifications to authors.
 Author: dgrebb
